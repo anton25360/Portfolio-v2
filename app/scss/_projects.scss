@@ -10,8 +10,10 @@
 .projMarble .text h1{ @include gradTxt(#FF5F6D,#FFC371); }
 .projPaint .text h1{ @include gradTxt(#4A00E0, #8E2DE2); }
 .projBread .text h1{ @include gradTxt(#3a6186, #89253e); }
+.projUpNext .text h1{ @include gradTxt(#0575E6, #021B79); }
 .projGlass .text h1{ @include gradTxt(#8360c3,#2ebf91); }
-.projPortfolio .text h1{ @include gradTxt(#f80759,#bc4e9c); } 
+.projPortfolio .text h1{ @include gradTxt(#f80759,#bc4e9c); }
+
 
 //code badges
 .badge-html{background-image:linear-gradient(135deg,#ff4c9f,#ff7b74)}
