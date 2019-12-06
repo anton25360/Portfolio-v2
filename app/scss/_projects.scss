@@ -14,6 +14,7 @@
 .projGlass .text h1{ @include gradTxt(#8360c3,#2ebf91); }
 .projPortfolio .text h1{ @include gradTxt(#f80759,#bc4e9c); }
 .projCoin .text h1{ @include gradTxt(#ee0979, #ff6a00); }
+.projFreddo .text h1{ @include gradTxt(#191654, #43c6ac); }
 
 
 //code badges
@@ -26,4 +27,5 @@
 .badge-ts{background-image:linear-gradient(135deg,#2F80ED,#56CCF2)}
 .badge-java{background-image:linear-gradient(135deg,#ED213A,#93291E)}
 .badge-firebase{background-image:linear-gradient(135deg,#FF4B2B,#FF416C)}
-.badge-go{background-image:linear-gradient(135deg,#02AAB0,#00CDAC)}
+.badge-react{background-image:linear-gradient(135deg,rgb(0, 136, 141),rgb(0, 223, 186))}
+.badge-pwa{background-image:linear-gradient(135deg,#021B79,#0575E6)}
