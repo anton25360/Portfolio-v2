@@ -272,6 +272,9 @@
 
 .badge-firebase {
   background-image: linear-gradient(135deg, #FF4B2B, #FF416C); }
+  
+.badge-xml {
+  background-image: linear-gradient(135deg, #4286f4, rgb(102, 109, 124)); }
 
 .badge-react {
   background-image: linear-gradient(135deg, #00888d, #00dfba); }
