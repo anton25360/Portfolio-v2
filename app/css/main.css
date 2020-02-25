@@ -69,20 +69,6 @@
     .aboutContainer li::before {
       content: '>\00a0';
       color: #0000c8; }
-    .aboutContainer li #sass:hover {
-      color: #bf4080; }
-    .aboutContainer li #js:hover {
-      color: #bebb07; }
-    .aboutContainer li #ts:hover {
-      color: #3a14e4; }
-    .aboutContainer li #php:hover {
-      color: #8b12d1; }
-    .aboutContainer li #java:hover {
-      color: #cc0b0b; }
-    .aboutContainer li #react:hover {
-      color: #0bafcc; }
-    .aboutContainer li #node:hover {
-      color: #0bcc45; }
     .aboutContainer li #gradient {
       background: linear-gradient(to right, red, orange);
       background-clip: text;
