@@ -244,6 +244,12 @@
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent; }
 
+.projWonders .text h1 {
+  background: linear-gradient(to right, #7857a4, #cd9abe);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent; }
+
 .badge-html {
   background-image: linear-gradient(135deg, #ff3493, #ff7b74); }
 
